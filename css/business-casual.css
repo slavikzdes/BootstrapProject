@@ -51,6 +51,7 @@ hr {
     text-transform: uppercase;
     font-weight: 400;
     letter-spacing: 3px;
+	color:darkblue;
 }
 
 .img-full {
@@ -180,6 +181,7 @@ footer p {
         margin: 0 auto;
         table-layout: fixed;
         font-size: 1.25em;
+		color:midnightblue;
     }
 }
 
