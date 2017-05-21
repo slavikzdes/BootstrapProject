@@ -180,7 +180,9 @@ footer p {
         float: none;
         margin: 0 auto;
         table-layout: fixed;
-        font-size: 1.25em;
+		font-size: 1.5em;
+        font-weight: 600;
+        letter-spacing: 3px;
 		color:midnightblue;
     }
 }
